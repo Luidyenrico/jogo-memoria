@@ -16,7 +16,7 @@ body {
     justify-content: center;
     align-items: center;
     gap: 30px;
-    background: url(/src/imagens/mata.jpg);
+    background: url(../imagens/mata.jpg);
     background-position: center center;
     background-size: cover;
     padding: 40px 60px;
